@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f26839b12fe05264283a4488b11a6245, type: 3}
+  m_Name: chinchilla
+  m_EditorClassIdentifier: 
+  retrato: {fileID: -3226002775098348864, guid: 47342d350dc46534da09764e9d1ddb97, type: 3}
+  vidaBase: 100
+  felicidadInicial: 100
+  prefab: {fileID: 5496392890656214977, guid: 55b929cde3490bf49b3b9f42f9313095, type: 3}

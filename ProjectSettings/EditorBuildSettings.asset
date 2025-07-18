@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5ecafebc5db213a45b20d7df84ddb673
+  - enabled: 1
+    path: Assets/Scenes/personajes.unity
+    guid: e6a21533545dd7d4080a0c8ff39d39f5
+  - enabled: 1
+    path: Assets/Scenes/fuera.unity
+    guid: b5a161ec0115fbf409a2bc78d787801f
+  - enabled: 1
+    path: Assets/Scenes/fuera 1.unity
+    guid: 9b1ef279a6b38bf438be8475e845312e
+  - enabled: 1
+    path: Assets/Scenes/dentro.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 7df598d56e9e0f743b183eee1c000928, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

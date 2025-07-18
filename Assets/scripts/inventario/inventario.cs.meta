@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e966f3e3d2acd148a4329aa19b4cfbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textoDinero: {instanceID: 0}
+  - objetoDeEquipo: {instanceID: 0}
+  - contenedorEquipo: {instanceID: 0}
+  - jugador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
